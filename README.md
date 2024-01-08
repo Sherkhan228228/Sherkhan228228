@@ -8,3 +8,4 @@
 Sherkhan228228/Sherkhan228228 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
+Let ABC be triangle with angle A equal to 60
